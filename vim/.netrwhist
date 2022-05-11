@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/mattheww/.dotfiles'
+let g:netrw_dirhist_5='/Users/mattheww/.dotfiles/dotbot'
+let g:netrw_dirhist_4='/Users/mattheww/Documents/soundstrue/node-middleware/ch-node-middleware/client'
+let g:netrw_dirhist_3='/Users/mattheww/Documents/soundstrue/node-middleware/ch-node-middleware'
+let g:netrw_dirhist_2='/Users/mattheww/Documents/personal/practice-projects/fun'
+let g:netrw_dirhist_1='/Users/mattheww/.aws'
